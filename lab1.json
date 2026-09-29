@@ -1,0 +1,17 @@
+{
+	"Name": "AURO2026-b5af4511a704147ecce458eb5111ac3198850cdaf2e77a292387df2a6ca2afc4",
+	"Driver": "local",
+	"Mountpoint": "/scratch/hbq510/containers/volumes/AURO2026-b5af4511a704147ecce458eb5111ac3198850cdaf2e77a292387df2a6ca2afc4/_data",
+	"CreatedAt": "2026-09-29T12:30:00.781604017+01:00",
+	"Labels": {
+		"vsch.local.repository": "https://github.com/UoY-RoboStar/AURO2026",
+		"vsch.local.repository.unique": "true"
+	},
+	"Scope": "local",
+	"Options": {},
+	"UID": 1,
+	"GID": 1,
+	"MountCount": 0,
+	"NeedsCopyUp": true,
+	"LockNumber": 0
+}
