@@ -1,0 +1,22 @@
+[1.358s] Invoking command in '/workspaces/AURO2026/build/my_package': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/workspaces/AURO2026/build/my_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/workspaces/AURO2026/install/my_package/lib/python3.14/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /workspaces/AURO2026/build/my_package/build --no-deps symlink_data
+[1.697s] running develop
+[1.895s] running egg_info
+[1.916s] creating my_package.egg-info
+[1.916s] writing my_package.egg-info/PKG-INFO
+[1.916s] writing dependency_links to my_package.egg-info/dependency_links.txt
+[1.917s] writing entry points to my_package.egg-info/entry_points.txt
+[1.917s] writing requirements to my_package.egg-info/requires.txt
+[1.917s] writing top-level names to my_package.egg-info/top_level.txt
+[1.917s] writing manifest file 'my_package.egg-info/SOURCES.txt'
+[1.955s] reading manifest file 'my_package.egg-info/SOURCES.txt'
+[1.956s] writing manifest file 'my_package.egg-info/SOURCES.txt'
+[1.976s] running build_ext
+[1.976s] Creating /workspaces/AURO2026/install/my_package/lib/python3.14/site-packages/my-package.egg-link (link to .)
+[1.976s] Installing my_node script to /workspaces/AURO2026/install/my_package/lib/my_package
+[1.977s] 
+[1.977s] Installed /workspaces/AURO2026/build/my_package
+[1.977s] running symlink_data
+[1.977s] creating /workspaces/AURO2026/install/my_package/share/ament_index/resource_index/packages
+[1.977s] symbolically linking /workspaces/AURO2026/build/my_package/resource/my_package -> /workspaces/AURO2026/install/my_package/share/ament_index/resource_index/packages
+[1.980s] symbolically linking /workspaces/AURO2026/build/my_package/package.xml -> /workspaces/AURO2026/install/my_package/share/my_package
+[2.013s] Invoked command in '/workspaces/AURO2026/build/my_package' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/workspaces/AURO2026/build/my_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/workspaces/AURO2026/install/my_package/lib/python3.14/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /workspaces/AURO2026/build/my_package/build --no-deps symlink_data
